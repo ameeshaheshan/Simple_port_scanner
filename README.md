@@ -1,2 +1,2 @@
-# Simple_port_scanner
-A Simple port scanner with Treading
+# Port_Scanner
+ A Simple port scanner with Treading
